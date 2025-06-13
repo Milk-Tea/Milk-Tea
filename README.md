@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milk-tea&layout=compact&langs_count=8&theme=github_dark&hide=html)
 
-[![Staphnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=milk-tea&show_icons=true&theme=dracula)](https://github.com/milk-tea/github-readme-stats)
+<!---[![Staphnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=milk-tea&show_icons=true&theme=dracula)](https://github.com/milk-tea/github-readme-stats)--->
 <img src="https://github-activity-graph.vercel.app/graph?username=milk-tea&theme=github-dark" width="600" />
 
