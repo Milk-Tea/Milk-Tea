@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Staphnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=milk-tea&show_icons=true&theme=dracula)](https://github.com/milk-tea/github-readme-stats)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=milk-tea&theme=github-dark)
+![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=milk-tea&theme=github-dark)
